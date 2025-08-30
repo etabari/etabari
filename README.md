@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ehsan Tabari
+_I develop products, build teams, and deliver results_
 
-<!--
-**etabari/etabari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Reach out
 
-Here are some ideas to get you started:
+- [linkedin.com/ehsan-tabari](https://www.linkedin.com/in/ehsan-tabari)
+- [Publications @ Google Scolar](https://scholar.google.com/citations?user=-K9EdDkAAAAJ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Quick Access:
+
+- [Tabari, E et al. NGS-determined molecular markers and disease burden metrics from ctDNA correlate with PFS in previously untreated DLBCL. Leukemia & lymphoma vol. 65,5 (2024): 618-628. doi:10.1080/10428194.2024.2301924](https://ehsantabari.com/public/goya_paper/)
